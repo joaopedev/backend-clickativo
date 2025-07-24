@@ -1,12 +1,10 @@
 # Backend - Barber API
 
-Este repositório contém o frontend e backend de uma aplicação para agendamento de barbearia.
+Este repositório contém o backend de uma aplicação para agendamento de barbearia.
 
 ## Estrutura
 
-- `backend/` - API em Node.js com Knex e PostgreSQL
-- `frontend/` - Interface web construída com React
-
+- API em Node.js com Knex e PostgreSQL
 
 ## Dependencias do projeto
 
